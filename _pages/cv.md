@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2022 - Now : PhD, UMR MISTEA - INRAE, Université de Montpellier
+* 2021 - 2022 : [M2 Analyse, Modélisation, Simulation](https://www.imo.universite-paris-saclay.fr/en/students/masters-programs/mathematics-and-applications/m2/analyse-modelisation-simulation/), Université Paris-Saclay
+* 2020 - 2021 : Agrégation de Mathématiques, ENS Rennes
+* 2019 - 2020 : M1 in Fundamental Mathematics, ENS Rennes
+* 2018 - 2019 : L3 in Mathematics, ENS Rennes
+* 2015 - 2018 : Classes Préparatoires MPSI-MP*, Lycée Descartes, Tours
 
 Work experience
 ======
