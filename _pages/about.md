@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to my personal website !"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a PhD student (in 3rd and final year) in Applied Mathematics at [UMR MISTEA](https://eng-mistea.montpellier.hub.inrae.fr/) - [INRAE](https://www.inrae.fr/en), Université de Montpellier (France), under the supervision of [Alain Rapaport](https://sites.google.com/site/alainrapaport/) (MISTEA), [Sébastien Roux](https://www.researchgate.net/profile/Sebastien-Roux-2) (MISTEA) and [Bruno Cheviron](https://www.researchgate.net/profile/Bruno-Cheviron) ([UMR G-EAU](https://www.g-eau.fr/index.php/en/)).
+I am a third (and final) year PhD student in Applied Mathematics at [UMR MISTEA](https://eng-mistea.montpellier.hub.inrae.fr/) - [INRAE](https://www.inrae.fr/en), Université de Montpellier (France), under the supervision of [Alain Rapaport](https://sites.google.com/site/alainrapaport/) (MISTEA), [Sébastien Roux](https://www.researchgate.net/profile/Sebastien-Roux-2) (MISTEA) and [Bruno Cheviron](https://www.researchgate.net/profile/Bruno-Cheviron) ([UMR G-EAU](https://www.g-eau.fr/index.php/en/)).
 
 
 Research interests
