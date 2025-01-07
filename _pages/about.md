@@ -18,7 +18,12 @@ Current works
 ======
 My thesis focuses on <strong>crop irrigation decision support tools</strong> based on the optimization of analytical and numerical models, in a context of climate change and preservation of water resources. The motivation is to provide a real-time decision, integrating seasonal management constraints and weather uncertainties. I consider a <strong>double modeling</strong> approach that relies on investigating a mathematical model on which I develop results from <strong>optimal control theory</strong>, and interacting with the numerical model <strong>[Optirrig](https://www.g-eau.fr/index.php/en/productions/software/item/1036-optirrig-generation-analyse-et-optimisation-de-scenarios-d-irrigation-pour-les-cultures)</strong> for operational purposes.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I am currently working on the elaboration of irrigation strategies suitable for the case of medium term unknown rainfall sequences, and the analysis of their efficiency. This project recquires considering <strong>stochastic control</strong> and <strong>adaptive/predictive methods</strong> to handle the non-deterministic behaviour.
+
+In parallel, I am also working on two projects. The first one is about studying the irrigation problem considering both fresh water and reuse water, therefore leading to the analysis and control of a <strong>switched dynamical system</strong>.
+
+The second one aims at generalizing a technique used for solving my irrigation problem under <strong>state constraints</strong>, consisting in a reformulation into an equivalent optimal control problem without state constraint, thus suited to the standard Pontryagin maximum principle. I am then looking for a class of problems where this technique holds.
+
 
 Getting started
 ======
