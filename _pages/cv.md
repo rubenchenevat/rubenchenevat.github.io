@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 
-* 2022 - Now : PhD, UMR MISTEA - INRAE, Université de Montpellier
+* 2022 - Now : PhD in Applied Mathematics, UMR MISTEA - INRAE, Université de Montpellier
 * 2021 - 2022 : [M2 Analyse, Modélisation, Simulation](https://www.imo.universite-paris-saclay.fr/en/students/masters-programs/mathematics-and-applications/m2/analyse-modelisation-simulation/), Université Paris-Saclay
 * 2020 - 2021 : Agrégation de Mathématiques, ENS Rennes
 * 2019 - 2020 : M1 in Fundamental Mathematics, ENS Rennes
