@@ -39,9 +39,15 @@ redirect_from:
 
 ### Journal Publications
 
-  <ul>{% for post in site.publications reversed %}
+<!--  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
+
+* "Extension of the bang-bang principle for non-autonomous regional affine dynamics under constraints"
+  Ruben Chenevat, Bruno Cheviron, Sébastien Roux, Alain Rapaport
+  _Submitted (Nov 2024)_
+
 
 ### Peer-Reviewed Conference Proceedings
 
