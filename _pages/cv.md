@@ -18,43 +18,34 @@ Education
 * 2018 - 2019 : L3 in Mathematics, ENS Rennes
 * 2015 - 2018 : Classes Préparatoires MPSI-MP*, Lycée Descartes, Tours
 
-Work experience
+Other academic experiences
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* January 2025 - March 2025 : Visiting position
+  * SYSTEC - Faculdade de Engenharia Universidade do Porto
+  * Collaborator : [Maria do Rosário de Pinho](https://paginas.fe.up.pt/~mrpinho/)
+  * Subject : Optimal control problems with state constraints for crop irrigation
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* April 2022 - August 2022 : Research intern
+  * IMT Toulouse
+  * Supervisor : [Radu Ignat](https://www.math.univ-toulouse.fr/~rignat/)
+  * Subject : Uniqueness and minimality of vortex solutions in variational models
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2019 - July 2019 : Research intern
+  * QMATH - University of Copenhagen
+  * Supervisor : [Jan-Philip Solovej](https://web.math.ku.dk/~solovej/)
+  * Subject : Mathematical problems in the analysis of the stability and the structure of matter
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
+Journal Publications
+------
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+
+Peer-Reviewed Conference Proceedings
+------
+
   
 Teaching
 ======
