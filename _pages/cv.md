@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+##Education
+
 * 2022 - Now : PhD, UMR MISTEA - INRAE, Université de Montpellier
 * 2021 - 2022 : [M2 Analyse, Modélisation, Simulation](https://www.imo.universite-paris-saclay.fr/en/students/masters-programs/mathematics-and-applications/m2/analyse-modelisation-simulation/), Université Paris-Saclay
 * 2020 - 2021 : Agrégation de Mathématiques, ENS Rennes
@@ -18,8 +18,8 @@ Education
 * 2018 - 2019 : L3 in Mathematics, ENS Rennes
 * 2015 - 2018 : Classes Préparatoires MPSI-MP*, Lycée Descartes, Tours
 
-Other academic experiences
-======
+##Other academic experiences
+
 * January 2025 - March 2025 : Visiting position
   * SYSTEC - Faculdade de Engenharia Universidade do Porto
   * Collaborator : [Maria do Rosário de Pinho](https://paginas.fe.up.pt/~mrpinho/)
@@ -35,16 +35,16 @@ Other academic experiences
   * Supervisor : [Jan-Philip Solovej](https://web.math.ku.dk/~solovej/)
   * Subject : Mathematical problems in the analysis of the stability and the structure of matter
   
-Publications
-======
-Journal Publications
-------
+##Publications
+
+###Journal Publications
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Peer-Reviewed Conference Proceedings
-------
+###Peer-Reviewed Conference Proceedings
+
 
   
 Teaching
