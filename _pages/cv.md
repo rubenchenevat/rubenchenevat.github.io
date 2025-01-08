@@ -51,14 +51,22 @@ redirect_from:
 
 ### Peer-Reviewed Conference Proceedings
 
+* [Common structures of optimal solutions for a crop irrigation problem under various constraints and criteria](https://hal.science/hal-04606181)\
+  Ruben Chenevat, Bruno Cheviron, Sébastien Roux, Alain Rapaport\
+  _63rd IEEE Conference on Decision and Control (CDC), 2024_
+
+* [About the Bang-Bang Principle for piecewise affine systems](https://hal.science/hal-04663130)\
+  Ruben Chenevat, Bruno Cheviron, Sébastien Roux, Alain Rapaport\
+  _63rd IEEE Conference on Decision and Control (CDC), 2024_
+
+* [The Optirrig model for the generation, analysis and optimization of irrigation scenarios: rationale and scopes](https://www.actahort.org/books/1373/1373_5.htm)\
+  B. Cheviron, M. Lo, J. Catel, M. Delmas, Y. Elamri, K. Akakpo, I.-A. Ramos-Fuentes, J.-D. Dominguez-Bohorquez, M. Garcia de Cezar, Y. Razavi-Ebrahimi, A. Degenne, R. Chenevat, J.C. Mailhol\
+  _XXXI International Horticultural Congress (IHC2022): International Symposium on Water: a Worldwide Challenge for Horticulture!, 2022_
 
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
+## Teaching
+
+<!--  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+-->
