@@ -18,6 +18,19 @@ redirect_from:
 * 2018 - 2019 : L3 in Mathematics, ENS Rennes
 * 2015 - 2018 : Classes Préparatoires MPSI-MP*, Lycée Descartes, Tours
 
+## Projects, activity & scholarships
+
+* Hubert Curien partnership France-Portugal (Program PHC-PESSOA 2025)
+  * "Optimizing Irrigation efficiency under Technical and Environmental constraints"
+
+* Project "BOUM" SMAI (October 2024)
+  * Organization of a workshop in Optimal control and applications in Spring 2025
+
+* PhD label - Interational research school of Agreenium (EIR-A 2024)
+
+* Working group (April 2023 - ...) :
+  * "Optimal control & Pontryagin maximum principle"
+
 ## Other academic experiences
 
 * January 2025 - March 2025 : Visiting position
@@ -89,3 +102,5 @@ redirect_from:
   * Analysis I - Functions of one variable and sequences
   * Calculus
   * Numerical analysis of PDEs
+
+
