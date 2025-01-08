@@ -48,7 +48,6 @@ redirect_from:
   Ruben Chenevat, Bruno Cheviron, Sébastien Roux, Alain Rapaport\
   _Submitted (Nov 2024)_
 
-
 ### Peer-Reviewed Conference Proceedings
 
 * [Common structures of optimal solutions for a crop irrigation problem under various constraints and criteria](https://hal.science/hal-04606181)\
@@ -63,6 +62,15 @@ redirect_from:
   B. Cheviron, M. Lo, J. Catel, M. Delmas, Y. Elamri, K. Akakpo, I.-A. Ramos-Fuentes, J.-D. Dominguez-Bohorquez, M. Garcia de Cezar, Y. Razavi-Ebrahimi, A. Degenne, R. Chenevat, J.C. Mailhol\
   _XXXI International Horticultural Congress (IHC2022): International Symposium on Water: a Worldwide Challenge for Horticulture!, 2022_
 
+### Working papers
+
+* "Structures of optimal solutions for a model of crop irrigation under biological and operating constraints"\
+  Ruben Chenevat, Bruno Cheviron, Sébastien Roux, Alain Rapaport\
+  _(in progress)_
+
+* "Exploring the optimality of threshold-based crop irrigation feedback strategies."\
+  Ruben Chenevat, Bruno Cheviron, Sébastien Roux, Alain Rapaport\
+  _(in progress)_
   
 ## Teaching
 
@@ -70,3 +78,14 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 -->
+
+* 2023 - 2024 :
+  * Logic & set theory
+  * Analysis I - Functions of one variable and sequences
+  * Calculus
+  * Private lessons for MPSI student
+
+* 2022 - 2023 :
+  * Analysis I - Functions of one variable and sequences
+  * Calculus
+  * Numerical analysis of PDEs
