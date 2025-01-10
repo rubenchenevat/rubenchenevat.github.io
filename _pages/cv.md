@@ -20,13 +20,13 @@ redirect_from:
 
 ## Projects, activity & scholarships
 
-* Hubert Curien partnership France-Portugal (Program PHC-PESSOA 2025)
+* [Hubert Curien partnership France-Portugal](https://www.campusfrance.org/fr/pessoa) (Program PHC-PESSOA 2025)
   * "Optimizing Irrigation efficiency under Technical and Environmental constraints"
 
 * [Project "BOUM" SMAI](http://smai.emath.fr/spip.php?article548&lang=fr) (October 2024)
   * Organization of a workshop in Optimal control and applications in Spring 2025
 
-* PhD label - Interational research school of Agreenium (EIR-A 2024)
+* PhD label - [Interational research school of Agreenium](https://www.agreenium.fr/formation-recherche/doctorat-et-ecoles-d-ete/une-formation-doctorale-internationale-lecole-eir-a) (EIR-A 2024)
 
 * Working group (April 2023 - ...) :
   * [Optimal control & Pontryagin maximum principle](https://sites.google.com/view/gdtpmp/)
