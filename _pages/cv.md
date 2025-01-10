@@ -23,7 +23,7 @@ redirect_from:
 * Hubert Curien partnership France-Portugal (Program PHC-PESSOA 2025)
   * "Optimizing Irrigation efficiency under Technical and Environmental constraints"
 
-* Project "BOUM" SMAI (October 2024)
+* [Project "BOUM" SMAI](http://smai.emath.fr/spip.php?article548&lang=fr) (October 2024)
   * Organization of a workshop in Optimal control and applications in Spring 2025
 
 * PhD label - Interational research school of Agreenium (EIR-A 2024)
