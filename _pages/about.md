@@ -24,5 +24,7 @@ In parallel, I am also working on two projects. The first one is about studying 
 
 The second one aims at generalizing a technique used for solving my irrigation problem under <strong>state constraints</strong>, consisting in a reformulation into an equivalent optimal control problem without state constraint, thus suited to the standard Pontryagin maximum principle. I am then looking for a class of problems where this technique holds.
 
+<br>
+<br>
 
 <a href="https://clustrmaps.com/site/1c3ra"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=mmflKL93Gk4iTGypn7_wFk6lxuq0T-dkTNkY0z2VKzw&cl=ffffff" /></a>
