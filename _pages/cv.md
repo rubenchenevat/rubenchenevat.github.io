@@ -29,7 +29,7 @@ redirect_from:
 * PhD label - Interational research school of Agreenium (EIR-A 2024)
 
 * Working group (April 2023 - ...) :
-  * "Optimal control & Pontryagin maximum principle"
+  * [Optimal control & Pontryagin maximum principle](https://sites.google.com/view/gdtpmp/)
 
 ## Other academic experiences
 
