@@ -77,7 +77,7 @@ redirect_from:
 
 ### Working papers
 
-* "Structures of optimal solutions for a model of crop irrigation under biological and operating constraints"\
+* "Optimal structures for a model of crop irrigation with state constraints"\
   Ruben Chenevat, Bruno Cheviron, Sébastien Roux, Alain Rapaport\
   _(in progress)_
 
@@ -85,22 +85,3 @@ redirect_from:
   Ruben Chenevat, Bruno Cheviron, Sébastien Roux, Alain Rapaport\
   _(in progress)_
   
-## Teaching
-
-<!--  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
--->
-
-* 2023 - 2024 :
-  * Logic & set theory
-  * Analysis I - Functions of one variable and sequences
-  * Calculus
-  * Private lessons for MPSI student
-
-* 2022 - 2023 :
-  * Analysis I - Functions of one variable and sequences
-  * Calculus
-  * Numerical analysis of PDEs
-
-
