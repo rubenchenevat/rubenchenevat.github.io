@@ -22,7 +22,7 @@ I am currently working on the elaboration of irrigation strategies suitable for 
 
 In parallel, I am also working on two projects. The first one is about studying the irrigation problem considering both fresh water and reuse water, therefore leading to the analysis and control of a <strong>switched dynamical system</strong>.
 
-The second one aims at generalizing a technique used for solving my irrigation problem under <strong>state constraints</strong>, consisting in a reformulation into an equivalent optimal control problem without state constraint, thus suited to the standard Pontryagin maximum principle. I am then looking for a class of problems where this technique holds.
+The second one aims at generalizing a technique used for solving my irrigation problem under <strong>state constraints</strong>, consisting in a reformulation into an equivalent optimal control problem without state constraint, thus suited to the standard unconstrained Pontryagin maximum principle. I am then looking for a class of problems where this technique holds.
 
 <br>
 <br>
