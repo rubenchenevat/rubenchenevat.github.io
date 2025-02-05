@@ -18,9 +18,9 @@ Current works
 ------
 My thesis focuses on <strong>crop irrigation decision support tools</strong> based on the optimization of analytical and numerical models, in a context of climate change and preservation of water resources. The motivation is to provide a real-time decision, integrating seasonal management constraints and weather uncertainties. I consider a <strong>double modeling</strong> approach that relies on investigating a mathematical model on which I develop results from <strong>optimal control theory</strong>, and interacting with the numerical model <strong>[Optirrig](https://www.g-eau.fr/index.php/en/productions/software/item/1036-optirrig-generation-analyse-et-optimisation-de-scenarios-d-irrigation-pour-les-cultures)</strong> for operational purposes.
 
-I am currently working on the elaboration of irrigation strategies suitable for the case of medium term unknown rainfall sequences, and the analysis of their efficiency. This project recquires considering <strong>stochastic control</strong> and <strong>adaptive/predictive methods</strong> to handle the non-deterministic behaviour.
+I am currently working on the elaboration of efficient irrigation strategies taking into account both long term expected rainfall sequences and short term weather forecast. This project recquires using <strong>average cost control problems</strong> and <strong>adaptive methods</strong> to handle the non-deterministic behaviour.
 
-In parallel, I am also working on two projects. The first one is about studying the irrigation problem considering both fresh water and reuse water, therefore leading to the analysis and control of a <strong>switched dynamical system</strong>.
+In parallel, I am also working on two projects. The first one is about studying the irrigation problem considering fresh water complemented with reuse water, therefore leading to the analysis and control of a <strong>switched dynamical system</strong>.
 
 The second one aims at generalizing a technique used for solving my irrigation problem under <strong>state constraints</strong>, consisting in a reformulation into an equivalent optimal control problem without state constraint, thus suited to the standard unconstrained Pontryagin maximum principle. I am then looking for a class of problems where this technique holds.
 
