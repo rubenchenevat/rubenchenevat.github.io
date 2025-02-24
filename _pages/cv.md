@@ -28,6 +28,8 @@ redirect_from:
 
 * PhD label - [Interational research school of Agreenium](https://www.agreenium.fr/formation-recherche/doctorat-et-ecoles-d-ete/une-formation-doctorale-internationale-lecole-eir-a) (EIR-A 2024)
 
+* PhD label - [#DigitAg](https://www.hdigitag.fr/eng/)
+
 * Working group (April 2023 - ...) :
   * [Optimal control & Pontryagin maximum principle](https://sites.google.com/view/gdtpmp/)
 
