@@ -27,4 +27,7 @@ The second one aims at generalizing a technique used for solving my irrigation p
 <br>
 <br>
 
+<!-- 
 <a href="https://clustrmaps.com/site/1c3ra"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=mmflKL93Gk4iTGypn7_wFk6lxuq0T-dkTNkY0z2VKzw&cl=ffffff" /></a>
+-->
+
