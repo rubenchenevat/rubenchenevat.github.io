@@ -4,7 +4,7 @@ layout: archive
 permalink: /archive-layout-with-content/
 sitemap: false
 ---
- 
+
 A variety of common markup showing how the theme styles them.
 
 # Header one
