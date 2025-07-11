@@ -20,11 +20,11 @@ redirect_from:
 
 ## Projects, activity & scholarships
 
-* [Hubert Curien partnership France-Portugal](https://www.campusfrance.org/fr/pessoa) (Program PHC-PESSOA 2025)
+* [Hubert Curien partnership France-Portugal](https://www.campusfrance.org/fr/pessoa) (Program PHC-PESSOA 2025-2027)
   * "Optimizing Irrigation efficiency under Technical and Environmental constraints"
 
 * [Project "BOUM" SMAI](http://smai.emath.fr/spip.php?article548&lang=fr) (with [Anas Bouali](https://www.anasbouali.com/) and [Gildas Dadjo](https://sites.google.com/view/mahugnongildasdadjo/home))
-  * Organization of a Workshop day on Optimization, Modelling and Control (upcoming event on June 12, 2025)
+  * Organization of a Workshop day on Optimization, Modelling and Control (June 12, 2025)
 
 * PhD label - [Interational research school of Agreenium](https://www.agreenium.fr/formation-recherche/doctorat-et-ecoles-d-ete/une-formation-doctorale-internationale-lecole-eir-a) (EIR-A 2024)
 
