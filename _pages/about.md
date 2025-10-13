@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Ruben Chenevat, I am a third year PhD student (with a PhD defense scheduled for October 10th) in Applied Mathematics at [UMR MISTEA](https://eng-mistea.montpellier.hub.inrae.fr/) - [INRAE](https://www.inrae.fr/en), Université de Montpellier (France), under the supervision of [Alain Rapaport](https://sites.google.com/site/alainrapaport/) (MISTEA), [Sébastien Roux](https://www.researchgate.net/profile/Sebastien-Roux-2) (MISTEA) and [Bruno Cheviron](https://www.researchgate.net/profile/Bruno-Cheviron) ([UMR G-EAU](https://www.g-eau.fr/index.php/en/)).
+My name is Ruben Chenevat, I completed my PhD in Applied Mathematics at [UMR MISTEA](https://eng-mistea.montpellier.hub.inrae.fr/) - [INRAE](https://www.inrae.fr/en), Université de Montpellier (France), under the supervision of [Alain Rapaport](https://sites.google.com/site/alainrapaport/) (MISTEA), [Sébastien Roux](https://www.researchgate.net/profile/Sebastien-Roux-2) (MISTEA) and [Bruno Cheviron](https://www.researchgate.net/profile/Bruno-Cheviron) ([UMR G-EAU](https://www.g-eau.fr/index.php/en/)).
 
 
 Research interests
