@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Ruben Chenevat, I completed my PhD in Applied Mathematics at [UMR MISTEA](https://eng-mistea.montpellier.hub.inrae.fr/){:target="_blank"} - [INRAE](https://www.inrae.fr/en){:target="_blank"}, Université de Montpellier (France), under the supervision of [Alain Rapaport](https://sites.google.com/site/alainrapaport/){:target="_blank"} (MISTEA), [Sébastien Roux](https://www.researchgate.net/profile/Sebastien-Roux-2){:target="_blank"} (MISTEA) and [Bruno Cheviron](https://www.researchgate.net/profile/Bruno-Cheviron){:target="_blank"} ([UMR G-EAU](https://www.g-eau.fr/index.php/en/){:target="_blank"}), defended on October 10th, 2025 ([slides](files/Soutenance_de_these_Vweb.pdf){:target="_blank"}).
+My name is Ruben Chenevat, I completed my PhD in Applied Mathematics at [UMR MISTEA](https://eng-mistea.montpellier.hub.inrae.fr/){:target="_blank"} - [INRAE](https://www.inrae.fr/en){:target="_blank"}, Université de Montpellier (France), under the supervision of [Alain Rapaport](https://sites.google.com/site/alainrapaport/){:target="_blank"} (MISTEA), [Sébastien Roux](https://www.researchgate.net/profile/Sebastien-Roux-2){:target="_blank"} (MISTEA) and [Bruno Cheviron](https://www.researchgate.net/profile/Bruno-Cheviron){:target="_blank"} ([UMR G-EAU](https://www.g-eau.fr/index.php/en/){:target="_blank"}), defended on October 10th, 2025 (<a href="{{ '/files/Soutenance_de_these_Vweb.pdf' | relative_url }}" target="_blank">slides</a>).
 
 
 Research interests
