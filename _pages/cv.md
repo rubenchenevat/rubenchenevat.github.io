@@ -11,8 +11,8 @@ redirect_from:
 
 ## Positions
 
-* (coming soon...)
-* 2022 - 2025 : PhD in Applied Mathematics, UMR MISTEA - INRAE, Université de Montpellier
+* 2025 - Now : Research engineer, UMR G-EAU, INRAE
+* 2022 - 2025 : PhD in Applied Mathematics, UMR MISTEA (INRAE), Université de Montpellier
 
 ## Education
 
