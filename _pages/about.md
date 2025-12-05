@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research engineer at [UMR G-EAU](https://www.g-eau.fr/index.php/en/){:target="_blank"} - [INRAE](https://www.inrae.fr/en){:target="_blank"}. Before that, I completed my PhD in Applied Mathematics at [UMR MISTEA](https://eng-mistea.montpellier.hub.inrae.fr/){:target="_blank"} - INRAE, Université de Montpellier (France), under the supervision of [Alain Rapaport](https://sites.google.com/site/alainrapaport/){:target="_blank"} (MISTEA), [Sébastien Roux](https://www.researchgate.net/profile/Sebastien-Roux-2){:target="_blank"} (MISTEA) and [Bruno Cheviron](https://www.researchgate.net/profile/Bruno-Cheviron){:target="_blank"} (G-EAU). I defended my PhD on October 10th, 2025 ([manuscript](https://hal.science/tel-05325824v1){:target="_blank"} and [slides (in French)](/files/Soutenance_de_these_Vweb.pdf){:target="_blank"}).
+I am currently a research engineer at [UMR G-EAU](https://www.g-eau.fr/index.php/en/){:target="_blank"} - [INRAE](https://www.inrae.fr/en){:target="_blank"}. Before that, I completed a PhD in Applied Mathematics at [UMR MISTEA](https://eng-mistea.montpellier.hub.inrae.fr/){:target="_blank"} - INRAE, Université de Montpellier (France), supervised by [Alain Rapaport](https://sites.google.com/site/alainrapaport/){:target="_blank"} (MISTEA), [Sébastien Roux](https://www.researchgate.net/profile/Sebastien-Roux-2){:target="_blank"} (MISTEA) and [Bruno Cheviron](https://www.researchgate.net/profile/Bruno-Cheviron){:target="_blank"} (G-EAU). I defended my thesis on October 10th, 2025 (see [manuscript](https://hal.science/tel-05325824v1){:target="_blank"} and [slides (in French)](/files/Soutenance_de_these_Vweb.pdf){:target="_blank"}).
 
 
 Research interests
