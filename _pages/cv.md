@@ -48,7 +48,7 @@ redirect_from:
   * "Optimizing Irrigation efficiency under Technical and Environmental constraints"
 
 * [Project "BOUM" SMAI](http://smai.emath.fr/spip.php?article548&lang=fr) (with [Anas Bouali](https://www.anasbouali.com/) and [Gildas Dadjo](https://sites.google.com/view/mahugnongildasdadjo/home))
-  * Organization of a Workshop day on Optimization, Modelling and Control (June 12, 2025), see [event poster](/files/Programme_OMC.pdf){:target="_blank"}
+  * Organization of a Workshop day on Optimization, Modelling and Control (June 12, 2025), see [event poster](/files/conference-1.pdf){:target="_blank"}
 
 * PhD label - [Interational research school of Agreenium](https://www.agreenium.fr/formation-recherche/doctorat-et-ecoles-d-ete/une-formation-doctorale-internationale-lecole-eir-a) (EIR-A 2024)
 
