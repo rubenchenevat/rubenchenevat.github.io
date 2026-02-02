@@ -11,11 +11,12 @@ redirect_from:
 
 ## Current position
 
-* 2025 - Now : Research engineer, UMR G-EAU, INRAE
+* Feb 2026 - Sep 2026 : Postdoc, Université Laval, Québec
 
 ## Professional experience
 
-* 2022 - 2025 : PhD in Applied Mathematics, UMR MISTEA (INRAE), Université de Montpellier
+* Nov 2025 - Jan 2026 : Research engineer, UMR G-EAU, INRAE
+* Oct 2022 - Oct 2025 : PhD in Applied Mathematics, UMR MISTEA (INRAE), Université de Montpellier
 
 ## Education
 
