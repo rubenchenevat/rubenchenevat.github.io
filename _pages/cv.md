@@ -15,7 +15,7 @@ redirect_from:
 
 ## Professional experience
 
-* Nov 2025 - Jan 2026 : Research engineer, UMR G-EAU, INRAE
+* Nov 2025 - Jan 2026 : Research engineer, UMR G-EAU, INRAE Montpellier
 * Oct 2022 - Oct 2025 : PhD in Applied Mathematics, UMR MISTEA (INRAE), Université de Montpellier
 
 ## Education
