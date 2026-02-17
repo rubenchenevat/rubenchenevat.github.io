@@ -11,7 +11,7 @@ locale                   : "fr-FR"
 title                    : "Ruben Chenevat"
 title_separator          : "-"
 name                     : "Ruben Chenevat"
-description              : "PhD student in Applied Mathematics, Université de Montpellier"
+description              : "PhD in Mathematics and Modeling, specialized in Optimal control, Nonlinear systems"
 url                      : "https://rubenchenevat.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rubenchenevat/rubenchenevat.github.io"
@@ -28,7 +28,7 @@ author:
   location         : "Québec, CANADA"
   employer         : "Université Laval"
   uri              : # URL
-  email            : "ruben.chenevat@ens-rennes.fr" 
+  email            : "ruben-ange-mathis.chenevat.1@ulaval.ca" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
