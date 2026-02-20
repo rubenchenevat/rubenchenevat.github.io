@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Short academic CV
+You can find a full CV here.
 
 ## Current position
 
@@ -33,7 +33,7 @@ Short academic CV
 
 
 
-You can find a full CV here.  
+
 
 
 <!--  ## Publications
