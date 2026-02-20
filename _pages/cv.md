@@ -11,18 +11,15 @@ redirect_from:
 
 You can find a full CV here.
 
-## Current position
-
-* Feb 2026 - Sep 2026 : Postdoctoral researcher at Ecole d'Actuariat, Université Laval (Québec, Canada)
-
 ## Professional experience
 
+* Feb 2026 - Now : Postdoctoral researcher at Ecole d'Actuariat, Université Laval (Québec, Canada)
 * Nov 2025 - Jan 2026 : Research engineer at UMR G-EAU, INRAE (Montpellier, France)
-* Oct 2022 - Oct 2025 : PhD student in Mathematics and Modeling at UMR MISTEA, INRAE, Université de Montpellier (Montpellier, France)
 
 ## Education
 
-* 2021 - 2022 : Master's degree in Mathematics at Université Paris-Saclay (Gif-sur-Yvette, France)
+* Oct 2022 - Oct 2025 : PhD student in Mathematics and Modeling at UMR MISTEA, INRAE, Université de Montpellier (Montpellier, France)
+* 2021 - 2022 : Master's degree in Mathematics at Université Paris-Saclay (Gif-sur-Yvette, France)<br>
   [M2 Analysis, Modeling, Simulation](https://www.imo.universite-paris-saclay.fr/en/students/masters-programs/mathematics-and-applications/m2/analyse-modelisation-simulation/)
 * 2018 - 2021 : Normalien student in Mathematics at Ecole Normale Supérieure (Rennes, France)
   * 2020 - 2021 : Agrégation de Mathématiques
