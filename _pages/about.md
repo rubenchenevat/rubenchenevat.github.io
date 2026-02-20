@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral researcher at [Ecole d'Actuariat](https://www.fsg.ulaval.ca/departements/ecole-dactuariat){:target="_blank"} - [Université Laval](https://www.ulaval.ca/){:target="_blank"} (Canada). Before that, I completed a PhD in Mathematics and Modeling at [UMR MISTEA](https://eng-mistea.montpellier.hub.inrae.fr/){:target="_blank"} - [INRAE](https://www.inrae.fr/en){:target="_blank"}, [Université de Montpellier](https://www.umontpellier.fr/){:target="_blank"} (France). I defended my thesis on October 10th, 2025 (see [manuscript](https://hal.science/tel-05325824v1){:target="_blank"} and [slides (in French)](/files/Soutenance_de_these_Vweb.pdf){:target="_blank"}).
+I am currently a postdoctoral researcher at [Ecole d'Actuariat](https://www.fsg.ulaval.ca/departements/ecole-dactuariat){:target="_blank"} - [Université Laval](https://www.ulaval.ca/){:target="_blank"} (Québec, Canada). Before that, I completed a PhD in Mathematics and Modeling at [UMR MISTEA](https://eng-mistea.montpellier.hub.inrae.fr/){:target="_blank"} - [INRAE](https://www.inrae.fr/en){:target="_blank"}, [Université de Montpellier](https://www.umontpellier.fr/){:target="_blank"} (Montpellier, France). I defended my thesis on October 10th, 2025 (see [manuscript](https://hal.science/tel-05325824v1){:target="_blank"} and [slides (in French)](/files/Soutenance_de_these_Vweb.pdf){:target="_blank"}).
 
 
 Research interests
