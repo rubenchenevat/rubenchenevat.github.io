@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find a full CV here.
+You can find a full CV [here](/files/CV_english.pdf){:target="_blank"}.
 
 ## Professional experience
 
