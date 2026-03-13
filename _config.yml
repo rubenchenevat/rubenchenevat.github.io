@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL
+  googlescholar    : "https://scholar.google.ca/citations?hl=en&user=xb7UddgAAAAJ&view_op=list_works&sortby=pubdate"
   impactstory      : # URL
   hal              : "https://cv.hal.science/rubenchenevat"
   orcid            : "https://orcid.org/0009-0004-0297-7584"
