@@ -19,7 +19,7 @@ My research focuses on the structure of optimal solutions in constrained determi
 
 ### PhD work
 
-During my PhD, I worked on crop irrigation decision support tools in the context of climate change and water resource preservation. Both analytical and numerical approaches were developed to study optimal irrigation strategies under state constraints, deficit irrigation frameworks, and weather uncertainties. This project relied on a double modeling approach, combining a theoretical optimal control model with the operational simulation tool [Optirrig](https://www.g-eau.fr/index.php/en/productions/software/item/1036-optirrig-generation-analyse-et-optimisation-de-scenarios-d-irrigation-pour-les-cultures).
+During my PhD, I worked on crop irrigation decision support tools in the context of climate change and water resource preservation. Both analytical and numerical approaches were developed to study optimal irrigation strategies under state constraints, deficit irrigation frameworks, and weather uncertainties. This project relied on a double modeling approach, combining a theoretical optimal control model with the operational simulation tool [Optirrig](https://optirrighive.pages-forge.inrae.fr/optirrigCORE/).
 
 
 ### Current research
