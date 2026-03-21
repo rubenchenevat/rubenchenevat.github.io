@@ -13,8 +13,10 @@ A full CV is available [here](/files/CV_english.pdf){:target="_blank"}.
 
 ## Professional experience
 
-* Feb 2026 - Present : Postdoctoral researcher at [&Eacute;cole d'Actuariat](https://www.fsg.ulaval.ca/departements/ecole-dactuariat){:target="_blank"}, [Université Laval](https://www.ulaval.ca/){:target="_blank"} (Québec, Canada)
-* Nov 2025 - Jan 2026 : Research engineer at [UMR G-EAU](https://g-eau.fr/index.php/en/umr-g-eau){:target="_blank"}, [INRAE](https://www.inrae.fr/en){:target="_blank"} (Montpellier, France)
+* **Feb 2026 &ndash; Present**
+  * Postdoctoral researcher at [&Eacute;cole d'Actuariat](https://www.fsg.ulaval.ca/departements/ecole-dactuariat){:target="_blank"}, [Université Laval](https://www.ulaval.ca/){:target="_blank"} (Québec, Canada)
+* **Nov 2025 &ndash; Jan 2026**
+  * Research engineer at [UMR G-EAU](https://g-eau.fr/index.php/en/umr-g-eau){:target="_blank"}, [INRAE](https://www.inrae.fr/en){:target="_blank"} (Montpellier, France)
 
 ## Education
 
