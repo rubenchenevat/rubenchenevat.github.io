@@ -9,28 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
-A full CV is available [here](/files/CV_english.pdf){:target="_blank"}.
+A short academic CV is provided below. A full version is available [here](/files/CV_english.pdf){:target="_blank"}.
 
 ## Professional experience
 
 * **Feb 2026 &ndash; Present**
-  * Postdoctoral researcher at [&Eacute;cole d'Actuariat](https://www.fsg.ulaval.ca/departements/ecole-dactuariat){:target="_blank"}, [Université Laval](https://www.ulaval.ca/){:target="_blank"} (Québec, Canada)
+  * Postdoctoral researcher, [&Eacute;cole d'Actuariat](https://www.fsg.ulaval.ca/departements/ecole-dactuariat){:target="_blank"}, [Université Laval](https://www.ulaval.ca/){:target="_blank"} (Québec, Canada)
 * **Nov 2025 &ndash; Jan 2026**
-  * Research engineer at [UMR G-EAU](https://g-eau.fr/index.php/en/umr-g-eau){:target="_blank"}, [INRAE](https://www.inrae.fr/en){:target="_blank"} (Montpellier, France)
+  * Research engineer, [UMR G-EAU](https://g-eau.fr/index.php/en/umr-g-eau){:target="_blank"}, [INRAE](https://www.inrae.fr/en){:target="_blank"} (Montpellier, France)
 
 ## Education
 
 * **Oct 2022 &ndash; Oct 2025**
-  * PhD in Mathematics and Modeling at [UMR MISTEA](https://eng-mistea.montpellier.hub.inrae.fr/){:target="_blank"}, INRAE, [Université de Montpellier](https://www.umontpellier.fr/en/){:target="_blank"} (Montpellier, France)
+  * PhD in Mathematics and Modeling, [UMR MISTEA](https://eng-mistea.montpellier.hub.inrae.fr/){:target="_blank"}, INRAE, [Université de Montpellier](https://www.umontpellier.fr/en/){:target="_blank"} (Montpellier, France)
 * **2021 &ndash; 2022**
-  * Master's degree in Mathematics at [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en){:target="_blank"} (Gif-sur-Yvette, France)
+  * Master's degree in Mathematics, [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en){:target="_blank"} (Gif-sur-Yvette, France)
 * **2018 &ndash; 2021**
-  * Normalien student in Mathematics at [&Eacute;cole Normale Supérieure de Rennes](https://www.ens-rennes.fr/){:target="_blank"} (Rennes, France)
-    * 2020 &ndash; 2021 : Agrégation de Mathématiques
-    * 2019 &ndash; 2020 : First year of Master's degree in Mathematics
-    * 2018 &ndash; 2019 : Bachelor's degree in Mathematics
+  * Normalien student in Mathematics, [&Eacute;cole Normale Supérieure de Rennes](https://www.ens-rennes.fr/){:target="_blank"} (Rennes, France)
+    * 2020 &ndash; 2021 - Agrégation de Mathématiques
+    * 2019 &ndash; 2020 - First year of Master's degree in Mathematics
+    * 2018 &ndash; 2019 - Bachelor's degree in Mathematics
 * **2015 &ndash; 2018**
-  * Preparatory Classes for Grandes &Eacute;coles, Mathematics & Physics, MPSI-MP* at Lycée Descartes (Tours, France)
+  * Preparatory Classes for Grandes &Eacute;coles (MPSI-MP*), Lycée Descartes (Tours, France)
 
 
 
