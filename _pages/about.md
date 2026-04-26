@@ -12,7 +12,7 @@ I am currently a postdoctoral researcher at [&Eacute;cole d'Actuariat](https://w
 
 ## Research interests
 
-My research focuses on the structure of optimal solutions in constrained deterministic and stochastic control systems. More broadly, I investigate nonlinear and nonsmooth dynamics, and how mathematical modeling and analysis can contribute to the understanding of complex systems arising in natural sciences and engineering. In particular, I study optimal strategies for the management of resources in systems exposed to uncertainty and potentially extreme events.
+My research focuses on the structure of optimal solutions in constrained deterministic and stochastic control systems. More broadly, I investigate nonlinear and nonsmooth dynamics, and how mathematical modelling and analysis can contribute to the understanding of complex systems arising in natural sciences and engineering. I am particularly interested in the interplay between control theory and modelling in contexts involving uncertainty, potentially limited observability, or imperfect model knowledge, raising questions about the robustness and performance guarantees of optimal strategies in such non-deterministic frameworks. A central motivation of my work is the study of optimal strategies for resource management in systems exposed to uncertainty and extreme events.
 
 
 ## Research overview
