@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral researcher at [&Eacute;cole d'Actuariat](https://www.fsg.ulaval.ca/departements/ecole-dactuariat){:target="_blank"}, [Université Laval](https://www.ulaval.ca/){:target="_blank"} (Québec, Canada). I completed my PhD in Mathematics and Modeling at [UMR MISTEA](https://eng-mistea.montpellier.hub.inrae.fr/){:target="_blank"} - [INRAE](https://www.inrae.fr/en){:target="_blank"}, [Université de Montpellier](https://www.umontpellier.fr/en/){:target="_blank"} (Montpellier, France). I defended my thesis on October 10, 2025. The manuscript is available [here](https://hal.science/tel-05325824v1){:target="_blank"} and the defense slides (in French) [here](/files/Soutenance_de_these_Vweb.pdf){:target="_blank"}.
+I am currently a postdoctoral researcher at [&Eacute;cole d'Actuariat](https://www.fsg.ulaval.ca/departements/ecole-dactuariat){:target="_blank"}, [Université Laval](https://www.ulaval.ca/){:target="_blank"} (Québec, Canada). I completed my PhD in Mathematics and Modelling at [UMR MISTEA](https://eng-mistea.montpellier.hub.inrae.fr/){:target="_blank"} - [INRAE](https://www.inrae.fr/en){:target="_blank"}, [Université de Montpellier](https://www.umontpellier.fr/en/){:target="_blank"} (Montpellier, France). I defended my thesis on October 10, 2025. The manuscript is available [here](https://hal.science/tel-05325824v1){:target="_blank"} and the defense slides (in French) [here](/files/Soutenance_de_these_Vweb.pdf){:target="_blank"}.
 
 
 ## Research interests
