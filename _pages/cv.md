@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A short academic CV is provided below. A full version is available [here](/files/CV_May2026.pdf){:target="_blank"}.
+A short academic CV is provided below. A full version is available [here](/files/CV_June2026.pdf){:target="_blank"}.
 
 ## Professional experience
 
