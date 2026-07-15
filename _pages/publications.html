@@ -40,8 +40,17 @@ author_profile: true
 }
 
 .publication-details summary {
-    display: list-item;
+    display: block;
     cursor: pointer;
+    list-style: none;
+}
+
+.publication-details summary::-webkit-details-marker {
+    display: none;
+}
+
+.publication-details summary::marker {
+    content: "";
 }
 
 .publication-details[open] summary {
