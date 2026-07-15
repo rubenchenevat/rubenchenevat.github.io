@@ -34,15 +34,51 @@ author_profile: true
 {% endif %}
  -->
 
+<style>
+.publication-details {
+    margin-bottom: 0.8em;
+}
+
+.publication-details summary {
+    cursor: pointer;
+}
+
+.publication-details[open] summary {
+    margin-bottom: 0.6em;
+}
+
+.publication-extra {
+    margin-left: 1.2em;
+    padding-left: 0.8em;
+    border-left: 2px solid #e6e6e6;
+}
+</style>
+
 
 
 <h3>Journal Articles</h3>
 
 <ol reversed>
     <li>
-        "About the bang-bang principle for controlled affine dynamics with Brownian noise"<br>
-        Ruben Chenevat, Dan Goreac, Qinlong Li, Alain Rapaport<br>
-        <em>Journal of Convex Analysis</em> (2026)
+        <details class="publication-details">
+            <summary>
+                <div>
+                    "About the bang-bang principle for controlled affine dynamics with Brownian noise"<br>
+                    Ruben Chenevat, Dan Goreac, Qinlong Li, Alain Rapaport<br>
+                    <em>Journal of Convex Analysis</em> (2026)
+                </div>
+            </summary>
+            <div class="publication-extra">
+                <p>
+                    <strong>Summary.</strong><br>
+                    Mini-résumé.
+                </p>
+                <p>
+                    <strong>Keywords.</strong><br>
+                    Mots-clés.
+                </p>
+            </div>
+        </details>
     </li>
     <li>
         <a href="https://link.springer.com/article/10.1007/s10957-025-02854-7" target="_blank">Optimal structures of crop irrigation strategies with state constraints</a><br>
