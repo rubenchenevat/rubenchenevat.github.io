@@ -7,24 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral researcher at [&Eacute;cole d'Actuariat](https://www.fsg.ulaval.ca/departements/ecole-dactuariat){:target="_blank"}, [Université Laval](https://www.ulaval.ca/){:target="_blank"} (Québec, Canada). I completed my PhD in Mathematics and Modelling at [UMR MISTEA](https://eng-mistea.montpellier.hub.inrae.fr/){:target="_blank"} - [INRAE](https://www.inrae.fr/en){:target="_blank"}, [Université de Montpellier](https://www.umontpellier.fr/en/){:target="_blank"} (Montpellier, France). I defended my thesis on October 10, 2025. The manuscript is available [here](https://hal.science/tel-05325824v1){:target="_blank"} and the defense slides (in French) [here](/files/Soutenance_de_these_Vweb.pdf){:target="_blank"}.
+I am currently a postdoctoral researcher at [&Eacute;cole d'Actuariat](https://www.fsg.ulaval.ca/departements/ecole-dactuariat){:target="_blank"}, [Université Laval](https://www.ulaval.ca/){:target="_blank"} (Québec, Canada). I received my PhD in Mathematics and Modelling from [UMR MISTEA](https://eng-mistea.montpellier.hub.inrae.fr/){:target="_blank"} - [INRAE](https://www.inrae.fr/en){:target="_blank"} and [Université de Montpellier](https://www.umontpellier.fr/en/){:target="_blank"} (Montpellier, France) in October 2025. The manuscript is available [here](https://hal.science/tel-05325824v1){:target="_blank"} and the defense slides (in French) [here](/files/Soutenance_de_these_Vweb.pdf){:target="_blank"}.
 
 
 ## Research interests
 
-My research focuses on the structure of optimal solutions in constrained deterministic and stochastic control systems. More broadly, I am interested in the interplay between control theory and modelling, and how it contributes to understanding complex systems in natural sciences and engineering, particularly in contexts involving uncertainty. A central motivation of my work is the study of optimal strategies for resource management in evolution systems exposed to uncertainty and extreme events.
+My research lies at the interface of control theory, dynamical systems, and mathematical modelling, with a focus on decision-making in biological and environmental systems under constraints and uncertainty. I am particularly interested in models whose variables and parameters possess a clear physical or biological meaning, while remaining sufficiently simple for mathematical analysis and interpretable control results. My aim is to connect concrete questions, modelling, analytical results, numerical exploration, and interpretation in order to understand when and how to intervene in evolving systems and how to balance performance, resource use, and robustness.
 
 
 ## Research overview
 
 ### PhD work
 
-During my PhD, I worked on crop irrigation decision support tools in the context of climate change and water resource preservation. Both analytical and numerical approaches were developed to study optimal irrigation strategies under state constraints, deficit irrigation frameworks, and weather variability and uncertainties. This project relied on a double modelling approach, combining a theoretical optimal control model with the operational simulation tool [Optirrig](https://optirrighive.pages-forge.inrae.fr/optirrigCORE/){:target="_blank"}.
+During my PhD, I studied decision support for crop irrigation in the context of limited water resources and weather uncertainty. I combined optimal control analysis and numerical exploration in a double modelling approach linking a reduced conceptual model to the operational simulation tool [Optirrig](https://optirrighive.pages-forge.inrae.fr/optirrigCORE/){:target="_blank"}. This framework was used to characterize theoretical yet interpretable irrigation strategies under state and operational constraints in view of supporting practical decisions.
 
 
 ### Current research
 
-My current research explores stochastic optimal control problems with constraints, with particular interest in jump systems and applications to areas such as agriculture, insurance, epidemiology, and resource management under uncertainty.
+My current work develops stochastic optimal control methods for constrained systems with jumps, with applications to insurance, agriculture, epidemiology, and resource management. It broadens my work on decision-making under uncertainty and on the analysis and control of dynamical systems exposed to non-deterministic events.
 
 
 
