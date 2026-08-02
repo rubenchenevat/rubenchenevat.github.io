@@ -20,7 +20,7 @@ A short academic CV is provided below. A full version is available [here](/files
 ## Education
 
 * **2022 &ndash; 2025**
-  * PhD in Mathematics and Modelling, [Université de Montpellier](https://www.umontpellier.fr/en/){:target="_blank"} ; research conducted at [UMR MISTEA](https://eng-mistea.montpellier.hub.inrae.fr/){:target="_blank"} - INRAE (Montpellier, France)
+  * PhD in Mathematics and Modelling, [Université de Montpellier](https://www.umontpellier.fr/en/){:target="_blank"} and [INRAE](https://www.inrae.fr/en){:target="_blank"} (Montpellier, France)
 * **2021 &ndash; 2022**
   * Master's degree in Mathematics, [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en){:target="_blank"} (Gif-sur-Yvette, France)
 * **2018 &ndash; 2021**
