@@ -11,7 +11,7 @@ locale                   : "fr-FR"
 title                    : "Ruben Chenevat"
 title_separator          : "-"
 name                     : "Ruben Chenevat"
-description              : "Postdoctoral researcher in stochastic optimal control, constrained dynamical systems, and mathematical modelling"
+description              : "Postdoctoral researcher in stochastic optimal control, constrained dynamical systems, and mathematical modeling"
 url                      : "https://rubenchenevat.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rubenchenevat/rubenchenevat.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "RubenChenevat.jpeg"
   name             : # "Ruben Chenevat"
   pronouns         : # None  
-  bio              : "Optimal control and dynamical systems - Decision-making under constraints and uncertainty - Biological and environmental modelling"
+  bio              : "Optimal control and dynamical systems - Decision-making under constraints and uncertainty - Biological and environmental modeling"
   location         : "Québec, CANADA"
   employer         : "Université Laval"
   uri              : # URL
